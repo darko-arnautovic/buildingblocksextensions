@@ -1,0 +1,29 @@
+{
+    "name": "buildingblocksextensions",
+    "displayName": "buildingblocksextensions",
+    "description": "A set of collections that make web & angular development easier and fun.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dbaeumer.jshint", 
+        "esbenp.prettier-vscode", 
+        "felixfbecker.php-intellisense", 
+        "ginie.pug2html", 
+        "johnpapa.Angular2", 
+        "johnpapa.vscode-peacock", 
+        "junstyle.php-cs-fixer", 
+        "mikerhyssmith.ts-barrelr", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "nrwl.angular-console", 
+        "pack.jade-bootstrap", 
+        "shinnn.stylelint", 
+        "thekalinga.bootstrap4-vscode", 
+        "vscode-icons-team.vscode-icons"
+    ]
+}
