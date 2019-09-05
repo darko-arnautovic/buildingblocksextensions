@@ -1,6 +1,6 @@
 {
     "name": "buildingblocksextensions",
-    "displayName": "buildingblocksextensions",
+    "displayName": "Building Blocks Extensions",
     "description": "A set of collections that make web & angular development easier and fun.",
     "version": "0.0.1",
     "engines": {
